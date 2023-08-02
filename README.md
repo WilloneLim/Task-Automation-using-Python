@@ -2,7 +2,7 @@
 
 This is a simple task automation program built using Python.
 
-This script is designed to automate routine system cleaning tasks.
+This script is designed to automate routine system cleaning tasks ( temporary files ).
 
 In order to schedule the script to run at specific intervals automatically, you will need to use 'Task Scheduler' for Windows, or 'cron' for Linux. Follow these steps:
 
